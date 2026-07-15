@@ -189,9 +189,9 @@ F --> G[Financial Recommendations]
 # Screenshots
 
 <p align="center">
-  <img src="assets/dashboard.png" width="220"/>
-  <img src="assets/chatbot.png" width="220"/>
-  <img src="assets/analytics.png" width="220"/>
+
+  <img width="859" height="375" alt="screenchot" src="https://github.com/user-attachments/assets/d52bd775-00b4-4f75-a3db-b80e7c5a0c36" />
+
 </p>
 
 ---
